@@ -57,7 +57,7 @@ Meu foco é **engenharia de performance e confiabilidade em produção**: descob
 Jogo de navegador para aprender SQL resolvendo pequenos crimes, do `SELECT` às funções de janela. SQLite rodando no navegador, em português e inglês, sem servidor e sem cookies.
 
 **Controle financeiro pelo Telegram**
-Bot que registra gastos por texto, áudio ou foto do cupom e responde perguntas como "quanto gastei em mercado esse mês?". Workflow no n8n integrando Telegram, LLM e Google Sheets, self-hosted na camada gratuita da Oracle Cloud. Feito em dupla com a Thays, que cuidou da modelagem da planilha e dos scripts em Apps Script.
+Bot que registra gastos por texto, áudio ou foto do cupom e responde perguntas como "quanto gastei em mercado esse mês?". Workflow no n8n integrando Telegram, LLM e Google Sheets, self-hosted na camada gratuita da Oracle Cloud. Feito em dupla com minha esposa, Thays, que cuidou da modelagem da planilha e dos scripts em Apps Script.
 
 ### Trajetória
 
